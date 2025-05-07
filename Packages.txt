@@ -1,0 +1,10 @@
+pandas
+numpy
+pickle
+streamlit
+sklearn.preprocessing
+    LabelEncoder
+sklearn.model_selection
+    train_test_split
+sklearn.ensemble
+    RandomForestClassifier
