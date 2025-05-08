@@ -15,7 +15,7 @@ st.title("Diabetes Prediction App")
 st.write("Please enter the following information:")
 
 # Gender and Yes/No maps
-gender_options = {"Male": 0, "Female": 1, "Other": 2}
+gender_options = {"Male": 1, "Female": 0, "Other": 2}
 yes_no_map = {"No": 0, "Yes": 1}
 
 # Smoking history options sorted like LabelEncoder (capital first, then alphabetical)
